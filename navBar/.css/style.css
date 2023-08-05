@@ -1,15 +1,5 @@
 * {
     margin: 0;
     padding: 0;
-}
-
-ul {
-    /*remover marcadores da lista*/
-    list-style-type: none;
-
-}
-
-li {
-    /*posicionar em lista*/
-    display: inline;
+    box-sizing: border-box;
 }
